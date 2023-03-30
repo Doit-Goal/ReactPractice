@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.bg-color-pink {
+  background-color: pink;
+}
+
+.bg-color-aqua {
+  background-color: aqua;
+}
+
+.bg-color-violet {
+  background-color: violet;
+}
+
+.p-12 {
+  padding: 12px;
+}
+
+.b-r-12 {
+  border-radius: 12px;
+}
+
+.m-r-12 {
+  margin-left: 12px;
+}
